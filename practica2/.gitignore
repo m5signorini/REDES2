@@ -1,0 +1,6 @@
+**.exe
+info.txt
+**/__pycache__
+**/user-data
+**.dat
+**.pem
